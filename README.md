@@ -1,5 +1,8 @@
 # EduFun
 EduFun is a technology-based education company from Indonesia. EduFun provides access to educational content in written format in Indonesian, delivered online through a website.
+
+*Note: To see code project, go to branch and choose master, the code is right there
+
 Nama : Wanda Ayu Hafidzoh
 NIM : 2602199872 
 Quiz Web Programming Documentation
